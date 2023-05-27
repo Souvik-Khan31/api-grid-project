@@ -1,0 +1,60 @@
+{
+    "details": [
+        {
+            "id": 0,
+            "name": "Soma",
+            "age": 20,
+            "totalMarks": 78,
+            "address": "Darkini"
+        },
+        {
+            "id": 1,
+            "name": "Souvik",
+            "age": 22,
+            "totalMarks": 85,
+            "address": "Manantore"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "age": 21,
+            "totalMarks": 92,
+            "address": "USA"
+        },
+        {
+            "id": 3,
+            "name": "somnath",
+            "age": 23,
+            "totalMarks": 78,
+            "address": "Kolkata"
+        },
+        {
+            "id": 4,
+            "name": "somu",
+            "age": 19,
+            "totalMarks": 78,
+            "address": "Bishnupur"
+        },
+        {
+            "id": 5,
+            "name": "Rahul",
+            "age": 20,
+            "totalMarks": 85,
+            "address": "123 Main Street"
+        },
+        {
+            "id": 6,
+            "name": "Manju",
+            "age": 21,
+            "totalMarks": 92,
+            "address": "Sarenga"
+        },
+        {
+            "id": 7,
+            "name": "Mahan",
+            "age": 22,
+            "totalMarks": 78,
+            "address": "Bankura"
+        }
+    ]
+}
