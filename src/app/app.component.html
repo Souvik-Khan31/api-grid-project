@@ -1,7 +1,7 @@
 <div class="flex">
 
-  <input class="width" type="text" placeholder="To" [(ngModel)]="toData">
-  <input class="width" type="text" placeholder="from" [(ngModel)]="fromData">
+  <input class="width" type="text" placeholder="From" [(ngModel)]="toData">
+  <input class="width" type="text" placeholder="To" [(ngModel)]="fromData">
 
   <select class="width" [(ngModel)]="selectedOption">
     <option *ngFor="let option of options" [value]="option.value">{{ option.label }}</option>
